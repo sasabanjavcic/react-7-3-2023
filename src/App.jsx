@@ -1,6 +1,6 @@
 import "./App.css";
 import PrvaKompa from "./components/prvaKompa";
-import DrugaKompa from "./components/drugakompa";
+import { DrugaKompa } from "./components/drugakompa";
 
 function App() {
   return (
